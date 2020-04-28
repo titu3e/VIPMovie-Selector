@@ -1,0 +1,29 @@
+{
+  "name": "VIPMovie Selector",
+  "description": "A Random Movie Selector",
+  "keywords": [
+    "telegram",
+    "best",
+    "indian",
+    "pyrogram",
+    "torrent",
+    "3",
+    "plugin",
+    "modular",
+    "productivity",
+    "youtube-dl",
+    "leecher"
+  ],
+  "repository": "",
+  "success_url": "",
+  "website": "",
+  
+  "addons": [
+  ],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}
