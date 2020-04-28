@@ -1,1 +1,1 @@
-worker: python3 -m mybot
+worker: python3 filmBot.py
