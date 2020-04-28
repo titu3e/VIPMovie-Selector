@@ -38,9 +38,9 @@ Everything else deals with managing lists with /m.
 """
 
 github = """
-If you like this bot, say hi to its creator @rpolve 👨‍💻
+If you like this bot, say hi to its creator @vipingupta_1 👨‍💻
 
-https://github.com/rpolve/telegram-movie-bot
+https://github.com/gupta-vipin/VIPMovie-Selector
 """
 
 random = """

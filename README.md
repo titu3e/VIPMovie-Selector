@@ -7,7 +7,7 @@ file named `TOKEN`, and keep it in the cloned repo folder.
 
 Then `cd` into it and run `./filmBot.py` from an internet connected machine.
 
-Or you can try it [here](http://telegram.me/polve_bot).
+Or you can try it [here](http://telegram.me/vipmovieselectbot).
 
 ## Current implementation
 
